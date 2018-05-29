@@ -68,13 +68,13 @@
 <distributionManagement>
 	<repository>
 		<id>Release</id>
-		<name>drelease</name>
+		<name>maven-releases</name>
 		<url>http://35.229.32.43:8081/repository/maven-releases/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>Snapshot</id>
-		<name>dsnapshot</name>
+		<name>maven-snapshots</name>
 		<url>http://35.229.32.43:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 </distributionManagement>
