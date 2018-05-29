@@ -65,17 +65,17 @@
 			</plugin>
 		</plugins>
 	</build>
-	<distributionManagement>
+<distributionManagement>
 	<repository>
-		<id>deploymentRepo</id>
-		<name>Internal Releases</name>
-		<url>http://35.229.32.43:8081/repository/maven-releases/</url>
+		<id>Release</id>
+		<name>drelease</name>
+		<url>http://35.229.32.43:8081/repository/drelease/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>deploymentRepo</id>
-		<name>Internal Releases</name>
-		<url>http://35.229.32.43:8081/repository/maven-snapshots/</url>
+		<id>Snapshot</id>
+		<name>dsnapshot</name>
+		<url>http://35.229.32.43:8081/repository/dsnapshot/</url>
 	</snapshotRepository>
 </distributionManagement>
 
