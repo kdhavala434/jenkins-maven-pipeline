@@ -68,13 +68,13 @@
 <distributionManagement>
 	<repository>
 		<id>Release</id>
-		<name>maven-releases</name>
+		<name>deploy-release</name>
 		<url>http://35.237.96.82:8081/repository/maven-releases/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>Snapshot</id>
-		<name>maven-snapshots</name>
+		<name>deploy-snapshot</name>
 		<url>http://35.237.96.82:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 </distributionManagement>
