@@ -69,13 +69,13 @@
 	<repository>
 		<id>Release</id>
 		<name>deploy-release</name>
-		<url>http://35.237.96.82:8081/repository/deploy-release/</url>
+		<url>http://35.237.97.133:8081/repository/deploy-release/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>Snapshot</id>
 		<name>deploy-snapshot</name>
-		<url>http://35.237.96.82:8081/repository/deploy-snapshot/</url>
+		<url>http://35.237.97.133:8081/repository/deploy-snapshot/</url>
 	</snapshotRepository>
 </distributionManagement>
 
